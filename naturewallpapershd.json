@@ -16,15 +16,15 @@
   "admob_hpk_4": "",
   "admob_hpk_5": "",
 
-  "fan_banner_id": "",
-  "fan_interstitial_id": "",
-  "fan_native_id": "",
+  "fan_banner_id": "YOUR_PLACEMENT_ID",
+  "fan_interstitial_id": "YOUR_PLACEMENT_ID",
+  "fan_native_id": "YOUR_PLACEMENT_ID",
 
   "mopub_banner_id": "",
   "mopub_interstitial_id": "",
   "mopub_native_id": "",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB",
   "list_ads": [
