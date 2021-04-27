@@ -4,11 +4,11 @@
     "Nature","live Wallpaper"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "pub-2645249444311791",
-  "app_id": "ca-app-pub-2645249444311791~4831851906",
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "pub_id": "pub-6238365824079155",
+  "app_id": "ca-app-pub-6238365824079155~1981263874",
+  "admob_banner_id": "ca-app-pub-6238365824079155/4895201824",
+  "admob_interstitial_id": "ca-app-pub-6238365824079155/5588486335",
+  "admob_native_id": "ca-app-pub-6238365824079155/3291487874",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
@@ -24,7 +24,7 @@
   "mopub_interstitial_id": "",
   "mopub_native_id": "",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 10,
 
   "primary_ads": "ADMOB",
   "list_ads": [
